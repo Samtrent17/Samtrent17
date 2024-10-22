@@ -1,4 +1,4 @@
-### <div align="center">I'm Sam Trent, a full-time full-stack freelance developer 👨‍💻 working remotely since 20243 🚀</div>  
+### <div align="center">I'm Sam Trent, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🔭 I’m currently working on a few projects like ULison Browser, UniSync, and others to be revealed in the future😕  
