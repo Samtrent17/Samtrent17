@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact: I listen to music more than i code😁 but i always make time to learn new things.
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=samtrent17)](https://git.io/streak-stats)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/ce80ca5c-4ece-48c3-9bcc-db701222b9c6/deploy-status)](https://app.netlify.com/sites/samuelnangoliportifolio/deploys)
 <br/>  
 
 
