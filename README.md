@@ -10,9 +10,8 @@
 - ❓ Ask me about anything related to ULison Link.  
   
 
-- ⚡ Fun fact: I listen to music more than i code😁 but i always make time to learn new things.  
-  
-
+- ⚡ Fun fact: I listen to music more than i code😁 but i always make time to learn new things.
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <br/>  
 
 
@@ -103,10 +102,12 @@
 <br/>  
 
 
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samtrent17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
 
 
 ## Recent Blog Posts  
